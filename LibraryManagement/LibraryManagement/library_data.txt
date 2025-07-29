@@ -1,4 +1,0 @@
-9780132350884,Clean Code,Robert C. Martin,2008
-9780321356680,Effective Java,Joshua Bloch,2005
-9780131103627,The C Programming Language,Brian W. Kernighan,1988
-9780201633610,Design Patterns,Erich Gamma,1994
